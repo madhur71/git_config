@@ -1,0 +1,10 @@
+build:
+    version: "3.0"
+accounts:
+    message: "Welcome to Accounts QA Service"
+    contactDetails:
+        name: "Accounts QA Team"
+        email: "qa.accounts@example.com"
+    onCallSupport:
+        - (510) 432-8928
+        - (593) 987-8029
